@@ -4,7 +4,7 @@ Welcome! The goal of this repository is to showcase some of the most helpful res
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/Ethancorri/Helpful_Resources/wiki/Introduction)
+1. [Introduction](https://github.com/Ethancorri/Helpful_Resources/wiki)
 2. [Programming Languages](https://github.com/Ethancorri/Helpful_Resources/wiki/Programming-Languages)
 3. [Certification Resources](https://github.com/Ethancorri/Helpful_Resources/wiki/Certification-Resources)
 4. [DevOps Tools](https://github.com/Ethancorri/Helpful_Resources/wiki/DevOps-Tools)
